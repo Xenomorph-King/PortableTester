@@ -1,0 +1,11 @@
+{
+	"title"		:	"Portable Tester",
+	"type"		:	"Weapon",
+	"tags"		:	[ "Fun", "Roleplay" ],
+	"ignore"	:
+	[
+		"*.psd",
+		"*.vcproj",
+		"*.svn*"
+	]
+}
